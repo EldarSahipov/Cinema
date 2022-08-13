@@ -1,0 +1,10 @@
+{
+  "groups": [],
+  "properties": [
+    {
+      "name": "uploadPath",
+      "type": "java.lang.String"
+    }
+  ],
+  "hints": []
+}
